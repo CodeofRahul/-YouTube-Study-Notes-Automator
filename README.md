@@ -58,6 +58,7 @@ You can modify these variables at the top of the script to suit different types 
 ├── Final_PDF_Notes/      # Generated PDFs are stored here
 ├── Captured_Resources/   # Temporary storage for frames (Auto-cleaned)
 └── Cleaned_Notes_...pdf  # The final output from the Manager
+```
 
 ---
 
@@ -70,4 +71,4 @@ You can modify these variables at the top of the script to suit different types 
 - Filenames: If a video title is completely non-English, the script will default the filename to Study_Notes.pdf to prevent system errors.
 
 
-Created for efficient learning. Happy Studying!
+<B> Created for efficient learning. Happy Studying! </B>
